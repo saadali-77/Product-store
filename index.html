@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Product Store</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <h1>Product Store</h1>
+
+        <div class="search-container">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Search products..."
+            >
+        </div>
+
+        <div class="favourites">
+            Favourites:❤> <span id="favouriteCount">0</span>
+        </div>
+    </header>
+
+
+    <main>
+        <p id="loadingMessage">Loading...</p>
+
+        <p id="errorMessage" hidden>
+            Sorry, we couldn't load the products. Please try again.
+        </p>
+
+        <section id="productsContainer" class="products-container">
+            <!-- Product cards will be added here using JavaScript -->
+        </section>
+    </main>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
