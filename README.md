@@ -8,7 +8,7 @@ A simple product store made with HTML, CSS, and JavaScript.
 * Search products by title
 * Add and remove products from favourites
 * Favourite count updates automatically
-* Loading message while products are loading
+* Loading messagee products are loading
 * Error message if products cannot be loaded
 * Responsive design for mobile and desktop
 
@@ -35,8 +35,8 @@ https://dummyjson.com/products
 
 ## Live Demo
 
-Add your Vercel link here.
+https://product-store-mu-orpin.vercel.app/.
 
 ## GitHub
 
-Add your GitHub repository link here.
+https://github.com/saadali-77/Product-store.
