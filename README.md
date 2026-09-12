@@ -30,9 +30,8 @@ https://dummyjson.com/products
 * CSS
 * JavaScript
 
-## Run Locally
 
-Clone the repository and open `index.html` in your browser.
+
 
 ## Live Demo
 
